@@ -6,7 +6,7 @@ EPG files for TV7 (Iinit7) in XMLTV format
 7 days
 
 ## Update interval
-Every night at 00:00 CEST
+Every night at 00:00 UTC
 
 ## Download links
 Original: https://github.com/mathewmeconry/TV7_EPG_Data/raw/master/tv7_epg.xml.gz  
