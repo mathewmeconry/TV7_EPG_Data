@@ -2,10 +2,26 @@
 EPG files for TV7 (Iinit7) in XMLTV format
 
 # Better Description
-Provides 7 days of EPG data for [TV7](https://www.init7.net/en/tv/) of Init7 in xmltv format.
+## Duration
+7 days
 
-# EPG sources
+## Update interval
+Every night at 00:00 CEST
+
+## Sources
 - tele.ch
+
+## available information
+- title
+- start & end time
+- duration
+- description
+- icon
+- subtitle
+- production country
+- credits (director, audio, cast, etc)
+- episode (season and episode number)
+- first release / production year
 
 # Sourcecode
 https://github.com/mathewmeconry/TV7_EPG_Parser
