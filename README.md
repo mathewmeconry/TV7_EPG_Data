@@ -9,8 +9,8 @@ EPG files for TV7 (Iinit7) in XMLTV format
 Every night at 00:00 CEST
 
 ## Download links
-Original: https://github.com/mathewmeconry/TV7_EPG_Data/raw/master/xmltv_tele.xml.gz  
-Shorten: https://goo.gl/TkfNQ3
+Original: https://github.com/mathewmeconry/TV7_EPG_Data/raw/master/tv7_epg.xml.gz  
+Shorten: https://goo.gl/rNBpPG
 
 ## Sources
 - tele.ch
