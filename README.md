@@ -5,25 +5,38 @@ EPG files for TV7 (Iinit7) in XMLTV format
 ## Duration
 7 days
 
+## Matchingrate
+~103 Channels
+
 ## Update interval
 Every night at 00:00 UTC
 
 ## Download links
+### Full
 Original: https://github.com/mathewmeconry/TV7_EPG_Data/raw/master/tv7_epg.xml.gz  
 Shorten: https://goo.gl/rNBpPG
 
+### tele.ch only
+Original: https://github.com/mathewmeconry/TV7_EPG_Data/raw/master/tv7_tele_epg.xml.gz  
+Shorten: https://goo.gl/EZW2cJ
+
+### teleboy.ch only
+Original: https://github.com/mathewmeconry/TV7_EPG_Data/raw/master/tv7_teleboy_epg.xml.gz  
+Shorten: https://goo.gl/7fz3BN
+
 ## Sources
 - tele.ch
+- teleboy.ch
 
 ## available information
 - title
 - start & end time
 - duration
 - description
-- icon
+- icon (tele.ch only)
 - subtitle
 - production country
-- credits (director, audio, cast, etc)
+- credits (tele.ch only)
 - episode (season and episode number)
 - first release / production year
 
