@@ -43,6 +43,11 @@ Shorten: https://goo.gl/7fz3BN
 # Sourcecode
 https://github.com/mathewmeconry/TV7_EPG_Parser
 
+# Channel list
+
+The XMLTVs listed on this site work without modification with the
+Init7-provided [M3U](https://www.init7.net/en/support/faq/TV-andere-Geraete/).
+
 ## Contributing
 1. Fork it!
 2. Create your feature branch: `git checkout -b my-new-feature`
