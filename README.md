@@ -6,10 +6,13 @@ EPG files for TV7 (Iinit7) in XMLTV format
 7 days
 
 ## Matchingrate
-~103 Channels
+~110 Channels
+
+### Thanks to
+[@alexiri](https://github.com/alexiri), [@nbarrientos](https://github.com/nbarrientos)
 
 ## Update interval
-Every night at 00:00 UTC
+Every night at 00:00 UTC *(Currently not working... Cront doesn't do what I want. I updated it from time to time)*
 
 ## Download links
 ### Full
@@ -29,6 +32,11 @@ Shorten: https://goo.gl/7fz3BN
 - teleboy.ch
 
 ## available information
+### channels
+- display name (de/fr/it)
+- channel icon
+
+### programms
 - title
 - start & end time
 - duration
