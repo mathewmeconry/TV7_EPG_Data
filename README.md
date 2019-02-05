@@ -9,7 +9,7 @@ EPG files for TV7 (Iinit7) in XMLTV format
 ~110 Channels
 
 ### Thanks to
-[@alexiri](https://github.com/alexiri), [@nbarrientos](https://github.com/nbarrientos)
+[@alexiri](https://github.com/alexiri), [@nbarrientos](https://github.com/nbarrientos), [@phof](https://github.com/phof)
 
 ## Update interval
 Every night at 00:00 UTC *(Currently not working... Cront doesn't do what I want. I updated it from time to time)*
