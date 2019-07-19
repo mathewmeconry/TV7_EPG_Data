@@ -35,7 +35,7 @@ Shorten: https://goo.gl/7fz3BN
 ## available information
 ### channels
 - display name (de/fr/it)
-- channel icon
+- channel icon (from TV7 playlist)
 
 ### programms
 - title
