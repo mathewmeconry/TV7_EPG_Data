@@ -12,7 +12,8 @@ EPG files for TV7 (Iinit7) in XMLTV format
 [@alexiri](https://github.com/alexiri), [@nbarrientos](https://github.com/nbarrientos), [@phof](https://github.com/phof), [@herver](https://github.com/herver)
 
 ## Update interval
-Every night at 00:00 UTC *(Currently not working... Cront doesn't do what I want. I updated it from time to time)*
+Every night at 00:00 UTC  
+Status: [![CircleCI](https://circleci.com/gh/mathewmeconry/TV7_EPG_Parser/tree/master.svg?style=svg)](https://circleci.com/gh/mathewmeconry/TV7_EPG_Parser/tree/master)
 
 ## Download links
 ### Full
