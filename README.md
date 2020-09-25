@@ -6,10 +6,10 @@ EPG files for TV7 (Iinit7) in XMLTV format
 7 days
 
 ## Matchingrate
-~110 Channels
+~143 Channels
 
 ### Thanks to
-[@alexiri](https://github.com/alexiri), [@nbarrientos](https://github.com/nbarrientos), [@phof](https://github.com/phof), [@herver](https://github.com/herver)
+[@alexiri](https://github.com/alexiri), [@nbarrientos](https://github.com/nbarrientos), [@phof](https://github.com/phof), [@herver](https://github.com/herver), [@hostho](https://github.com/hostho)
 
 ## Update interval
 Every night at 00:00 UTC  
