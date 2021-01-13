@@ -9,7 +9,12 @@ EPG files for TV7 (Iinit7) in XMLTV format
 ~143 Channels
 
 ### Thanks to
-[@alexiri](https://github.com/alexiri), [@nbarrientos](https://github.com/nbarrientos), [@phof](https://github.com/phof), [@herver](https://github.com/herver), [@hostho](https://github.com/hostho)
+- [@alexiri](https://github.com/alexiri)
+- [@nbarrientos](https://github.com/nbarrientos)
+- [@phof](https://github.com/phof)
+- [@herver](https://github.com/herver)
+- [@hostho](https://github.com/hostho)
+- [@x-jokay](https://github.com/x-jokay)
 
 ## Update interval
 Every night at 00:00 UTC  
@@ -20,16 +25,11 @@ Status: [![CircleCI](https://circleci.com/gh/mathewmeconry/TV7_EPG_Parser/tree/m
 Original: https://github.com/mathewmeconry/TV7_EPG_Data/raw/master/tv7_epg.xml.gz  
 Shorten: https://goo.gl/rNBpPG
 
-### tele.ch only
-Original: https://github.com/mathewmeconry/TV7_EPG_Data/raw/master/tv7_tele_epg.xml.gz  
-Shorten: https://goo.gl/EZW2cJ
-
 ### teleboy.ch only
 Original: https://github.com/mathewmeconry/TV7_EPG_Data/raw/master/tv7_teleboy_epg.xml.gz  
 Shorten: https://goo.gl/7fz3BN
 
 ## Sources
-- tele.ch
 - teleboy.ch
 
 ## available information
