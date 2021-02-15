@@ -14,7 +14,7 @@ EPG files for TV7 (Iinit7) in XMLTV format
 - [@phof](https://github.com/phof)
 - [@herver](https://github.com/herver)
 - [@hostho](https://github.com/hostho)
-- [@x-jokay](https://github.com/x-jokay)
+- [@jokay](https://github.com/jokay)
 
 ## Update interval
 Every night at 00:00 UTC  
