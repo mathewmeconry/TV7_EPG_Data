@@ -30,6 +30,8 @@ Shorten: https://goo.gl/7fz3BN
 
 ### init7 only
 Original: https://github.com/mathewmeconry/TV7_EPG_Data/raw/master/tv7_init7_epg.xml.gz  
+This file can be out of date because the init7 API blocks my server from time to time and thus this file will not be updated regularly.
+I recommend to sue the full file for the latest information.
 
 ## Sources
 - teleboy.ch
